@@ -88,3 +88,7 @@ print(group_hi.mean())
 group_hi = hier_df.groupby(level="country", axis=1)
 print(group_hi.mean())
 
+#git is a distributed version control syestem
+#git is free software
+
+
