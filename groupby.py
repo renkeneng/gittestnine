@@ -90,5 +90,5 @@ print(group_hi.mean())
 
 #git is a distributed version control syestem
 #git is free software
-
+#git has a mutable index called stage.
 
