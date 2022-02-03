@@ -93,8 +93,5 @@ print(group_hi.mean())
 #git has a mutable index called stage.
 #git tracks changes.
 #Creating a new branch is quick.
-<<<<<<< HEAD
-#Creating a new branch is quick & simple.
-=======
 #Creating a new branch is queck AND simple.
->>>>>>> feature1
+#
