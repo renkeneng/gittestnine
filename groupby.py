@@ -89,7 +89,7 @@ group_hi = hier_df.groupby(level="country", axis=1)
 print(group_hi.mean())
 
 #git is a distributed version control syestem
-#git is free software
+#git is a free software
 #git has a mutable index called stage.
 #git tracks changes.
 #Creating a new branch is quick.
